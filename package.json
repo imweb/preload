@@ -1,0 +1,16 @@
+{
+  "name": "preload",
+  "version": "0.0.2",
+  "description": "preload data in head",
+  "keywords": [],
+  "homepage": "",
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "licenses": "MIT"
+}
